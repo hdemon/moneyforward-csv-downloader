@@ -3,7 +3,7 @@
     "iconv": "^2.2.1",
     "jschardet": "^1.4.1",
     "nightmare": "^2.8.1",
-    "node-fetch": "^1.6.3",
+    "node-fetch": "^2.6.7",
     "request": "^2.79.0"
   }
 }
